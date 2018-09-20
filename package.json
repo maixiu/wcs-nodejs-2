@@ -1,0 +1,14 @@
+{
+  "name": "node-quest",
+  "version": "1.0.0",
+  "description": "NodeJS Quest for Wild Code School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthieu Tabuteau",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.3.1"
+  }
+}
